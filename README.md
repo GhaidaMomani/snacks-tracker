@@ -1,5 +1,7 @@
 # Lab: Django Models
 
+# [Pull Request Link](https://github.com/GhaidaMomani/django-snacks/pull/1)
+
 ## Overview
 
 Django has a powerful Object Relational Mapper that allows us to persist data using Python instead of SQL.
