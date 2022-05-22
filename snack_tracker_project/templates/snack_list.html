@@ -4,7 +4,7 @@
 
 {% block content %}
 
-{% for snack in snack_list %}
+{% for snack in snacks_list %}
 <p><a href="{% url 'snack_detail' pk=snack.pk %}">{{snack.name}}</a></p>
 {% endfor %}
 
